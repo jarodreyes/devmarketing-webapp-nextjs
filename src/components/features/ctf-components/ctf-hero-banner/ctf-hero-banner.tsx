@@ -68,7 +68,7 @@ const useStyles = makeStyles((theme: Theme) => ({
   },
 
   headline: {
-    fontSize: '3rem',
+    fontSize: '4rem',
     fontWeight: 800,
     lineHeight: 1.08,
     maxWidth: '44rem',
@@ -79,6 +79,7 @@ const useStyles = makeStyles((theme: Theme) => ({
 
   body: {
     fontWeight: 400,
+    color: '#33aab1',
     lineHeight: 1.56,
     marginTop: theme.spacing(6),
     maxWidth: '46.9rem',
