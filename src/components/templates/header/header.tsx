@@ -60,7 +60,7 @@ const useStyles = makeStyles((theme: Theme) => ({
   corporateLogo: {
     display: 'block',
     height: 'auto',
-    width: '113px',
+    width: '370px',
   },
 }));
 
